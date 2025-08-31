@@ -45,3 +45,11 @@ The logistic model exhibits clear score separation between defaulters and non-de
 A carefully engineered pipeline—spanning aggressive cleaning, MI-filtered L2-regularized logistic regression, and a tuned Random Forest with recall-oriented thresholding—produces calibrated, interpretable, and operationally robust default risk estimates suitable for NBFC deployment. Next steps include profit-based cut-off optimization and scenario simulation, expanded stability testing across time and cohorts, and exploration of calibrated gradient-boosting variants to push AUC without sacrificing auditability or calibration quality.
 
 ---
+
+## Contributors
+- Anirudh A
+- Balaji M
+- Kowshik M
+- Moneesh B
+
+---
